@@ -44,7 +44,7 @@ sanitation <- read_csv("data/jmp_wld_sanitation_long.csv")
 
 1.  Run all code chunks above.
 2.  Use the `glimpse()` function to get an overview of the data set.
-3.  How many variables are in the data set?
+3.  How many variables are in the data set? Ans=8 variables
 
 ```{r}
 glimpse(sanitation)
